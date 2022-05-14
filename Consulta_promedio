@@ -1,0 +1,1 @@
+SELECT * FROM tb_alumnos WHERE grupo = "A" ORDER BY promedio DESC LIMIT 10
